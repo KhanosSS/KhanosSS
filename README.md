@@ -1,5 +1,3 @@
-# Diez Başlığı
-* liste
 
   
 <!---
